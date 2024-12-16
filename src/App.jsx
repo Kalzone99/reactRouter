@@ -6,7 +6,7 @@ import Create from "./assets/pages/Create.jsx";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/reactRouter">
       <Navbar />
       <Routes>
         <Route path="/" element={<MainPage />} />
