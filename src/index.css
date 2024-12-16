@@ -219,6 +219,8 @@ button {
 .stocks .edit {
   background-color: hsla(294, 87%, 58%, 0.933);
   translate: 0px -0.5px;
+  width: 30px;
+  height: 30px;
 }
 .stocks .edit:hover {
   cursor: pointer;
